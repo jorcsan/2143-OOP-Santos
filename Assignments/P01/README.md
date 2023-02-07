@@ -12,7 +12,7 @@ initialized with different data sources (files, other vectors, and arrays).
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   |      | Main driver of my project that launches game.      |
+|   1   | (main.cpp)[https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P01/main.cpp]     | Main driver taht holds the Vector class      |
 |   2   |   | Helper class that holds movement functions         |
 |   3   |   | Helper class that assists with textures and images |
 
