@@ -12,17 +12,16 @@ initialized with different data sources (files, other vectors, and arrays).
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | (main.cpp)[https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P01/main.cpp]     | Main driver taht holds the Vector class      |
-|   2   |   | Helper class that holds movement functions         |
-|   3   |   | Helper class that assists with textures and images |
+|   1   | [main.cpp](https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P01/main.cpp)   | Main driver that holds the Vector class      |
+|   2   |  [test.out](https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P01/test.out) | output sample        |
+
 
 ### Instructions
 
-- 
-- 
-- 
-- 
+- make sure to use libraries iostream and fstream
+
 
 
 - Example Command:
+   v1.print(outfile)
    
