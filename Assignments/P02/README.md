@@ -14,7 +14,7 @@ so it  is a simpler process when manipulating it.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [main.cpp](https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P02/main-20.cpp)   | Main driver that holds the MyVector class      |
-|   2   |  [test.out]() | output sample        |
+|   2   |  [test.out](https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P02/output-4.txt) | output sample        |
 
 
 ### Instructions
