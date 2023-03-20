@@ -19,12 +19,16 @@ so it  is a simpler process when manipulating it.
 
 ### Instructions
 
-- make sure to use libraries iostream, fstream, and string.
+- make sure to use libraries iostream, fstream, map. and vector.
 
 
 
 - Example Command:
-   cout << v1;
-   v1 = v1 +v2;
-   
+   A.addAttributes(Box);
+    Arrow["ref"] = "next";
+    Arrow["color"] = "orange";
+    Arrow["arrow_type"] = "vee";
+    Arrow["dir"] = "both";
+    Arrow["arrowtail"] = "dot";
+    Arrow["tailclip"] = "false";
    
