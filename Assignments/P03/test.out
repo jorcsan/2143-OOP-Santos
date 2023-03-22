@@ -1,0 +1,36 @@
+Jorge Santos
+March 2nd, 2023
+Spring 2143
+
+digraph LinkedList {
+rankdir = LR;
+0 [color="purple", label="{ <data> 12 | <next> }", shape="record"]
+1 [color="purple", label="{ <data> 99 | <next> }", shape="record"]
+2 [color="purple", label="{ <data> 37 | <next> }", shape="record"]
+0:next:0->1 [arrowhead="crow", arrowtail="dot", color="purple", dir="both", ref="next", tailclip="false"]
+1:next:1->2 [arrowhead="inv", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+}
+
+digraph DoublyLinkedList {
+rankdir = LR;
+0 [color="purple", label="{ <prev> | <data> 10 | <next> }", shape="record"]
+1 [color="purple", label="{ <prev> | <data> 20 | <next> }", shape="record"]
+2 [color="purple", label="{ <prev> | <data> 30 | <next> }", shape="record"]
+0:next:0->1 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+0:prev:0->1 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+1:next:1->0 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+1:prev:1->0 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+2:next:1->2 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+2:prev:1->2 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+3:next:2->1 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+3:prev:2->1 [arrowhead="vee", arrowtail="dot", color="orange", dir="both", ref="next", tailclip="false"]
+}
+
+digraph BinarySearchTree {
+0->1 [color="blue"]
+0->2 []
+1->3 [color="red"]
+1->4 [arrowhead="box"]
+2->5 []
+2->6 []
+}
