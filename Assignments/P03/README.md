@@ -12,7 +12,7 @@ or edge. It generates 3 graphs. A linked list, doubly linked list, and a binary 
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [main.cpp]()   | Main driver that holds the GraphViz class      |
+|   1   | [main.cpp](https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P03/main-24.cpp)   | Main driver that holds the GraphViz class      |
 |   2   |  [test.out]() | output sample        |
 
 
