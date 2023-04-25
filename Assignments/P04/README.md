@@ -24,7 +24,7 @@ a sum, maximum, minimum, and average. The names are pretty self explanatory.
 
 - Example Command:
   
-  
+  ```python
   
   d1 = Die()
   d2 = Die(20)
@@ -38,3 +38,4 @@ a sum, maximum, minimum, and average. The names are pretty self explanatory.
   dieTester(d3, 10, "avg")
   dieTester(d4, 20, "max")
   
+  '''
