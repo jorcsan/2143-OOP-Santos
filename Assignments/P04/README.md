@@ -12,7 +12,7 @@ a sum, maximum, minimum, and average. The names are pretty self explanatory.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [main.py]()   | Main driver that holds the tester function    |
+|   1   | [main.py](https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/P04/dice.py)   | Main driver that holds the tester function    |
 |   2   |  [dice.py]()  | holds the die and dice classes       |
 
 
