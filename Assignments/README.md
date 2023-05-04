@@ -8,3 +8,4 @@
 |   4   |   [P02]()   |  MyVector class with overloaded operators           |
 |   5   |   [P03]()   | Graphviz                                             |   creating output suitable for use in graphviz  |
 |   6   |   [P04]()   |   Roll Them Bones                                     |   rolling dice in preparation for D&D         |
+|   7   |    [A05]()  |   Designing your game                                 |   making a UML design dor a D&D game          |
