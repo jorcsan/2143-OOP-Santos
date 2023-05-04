@@ -11,7 +11,7 @@ the classes should have and it shows the relationship between the classes
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [UML diagram]()   | My diagram with D&D classes                      |
+|   1   | [UML diagram](https://github.com/jorcsan/2143-OOP-Santos/blob/main/Assignments/A05/D%26D.pdf)   | My diagram with D&D classes                      |
 
 
 
